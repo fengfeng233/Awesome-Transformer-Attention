@@ -123,7 +123,6 @@ If you find this repository useful, please consider citing this list:
 * **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
-* **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **CAT**: "Context-Aware Transformer for 3D Point Cloud Automatic Annotation", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14893)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
 * **AnalogicalNets**: "Analogy-Forming Transformers for Few-Shot 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.14382)][[Website](https://analogicalnets.github.io/)]
@@ -134,6 +133,8 @@ If you find this repository useful, please consider citing this list:
 * **SphereFormer**: "Spherical Transformer for LiDAR-based 3D Recognition", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.12766)][[PyTorch](https://github.com/dvlab-research/SphereFormer)]
 * **SPoTr**: "Self-positioning Point-based Transformer for Point Cloud Understanding", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.16450)][[PyTorch (in construction)](https://github.com/mlvlab/SPoTr)]
 * **PointCMP**: "PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.04075)]
+* **GeoMAE**: "GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.08808)][[Code (in construction)](https://github.com/Tsinghua-MARS-Lab/GeoMAE)]
+* **ULIP**: "ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[PyTorch](https://github.com/salesforce/ULIP)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -144,6 +145,7 @@ If you find this repository useful, please consider citing this list:
 * **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.07221)][[Code (in construction)](https://github.com/zyh16143998882/IDPT)]
 * **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)]
 * **ViewFormer**: "ViewFormer: View Set Attention for Multi-view 3D Shape Understanding", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.00161)]
+* **ULIP-2**: "ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.08275)]
 
 [[Back to Overview](#overview)]
 
@@ -209,6 +211,7 @@ If you find this repository useful, please consider citing this list:
     * **PCT**: "Human Pose as Compositional Tokens", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11638)][[Code (in construction)](https://github.com/Gengzigang/PCT)][[Website](https://sites.google.com/view/pctpose)]
     * **OSX**: "One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.16160)][[PyTorch](https://github.com/IDEA-Research/OSX)][[Website](https://osx-ubody.github.io/)]
     * **PoseFormerV2**: "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.17472)][[PyTorch (in construction)](https://github.com/QitaoZhao/PoseFormerV2)][[Website](https://qitaozhao.github.io/PoseFormerV2)]
+    * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -319,6 +322,8 @@ If you find this repository useful, please consider citing this list:
 * **PMT**: "Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification", AAAI, 2023 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2212.00226)][[Code (in construction)](https://github.com/hulu88/PMT)]
 * **DC-Former**: "DC-Former: Diverse and Compact Transformer for Person Re-Identification", AAAI, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2302.14335)][[PyTorch](https://github.com/ant-research/Diverse-and-Compact-Transformer)]
 * **TP-TPS**: "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.04497)]
+* **PLIP**: "PLIP: Language-Image Pre-training for Person Representation Learning", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.08386)][[Code (in construction)](https://github.com/Zplusdragon/PLIP)]
+* **SSCP**: "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection", arXiv, 2023 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.10801)]
 
 [[Back to Overview](#overview)]
 
@@ -486,6 +491,7 @@ If you find this repository useful, please consider citing this list:
     * **PMTrans**: "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13434)][[Website (in construction)](https://vlis2022.github.io/cvpr23/PMTrans)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
+    * **UniOOD**: "Universal Domain Adaptation from Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.11092)][[Code (in construction)](https://github.com/szubing/uniood)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -574,6 +580,7 @@ If you find this repository useful, please consider citing this list:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 * Novel Category Discovery:
     * **PromptCAL**: "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.05590)][[Code (in construction)](https://github.com/sheng-eatamath/PromptCAL)]
+    * **CLIP-GCD**: "CLIP-GCD: Simple Language Guided Generalized Category Discovery", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2305.10420)]
 
 [[Back to Overview](#overview)]
 
@@ -706,6 +713,7 @@ If you find this repository useful, please consider citing this list:
 * **MAT**: "MAT: Mask-Aware Transformer for Large Hole Image Inpainting", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.15270)][[PyTorch](https://github.com/fenglinglwb/MAT)]
 * **PUT**: "Reduce Information Loss in Transformers for Pluralistic Image Inpainting", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.05076)][[PyTorch](https://github.com/liuqk3/PUT)]
 * **DLFormer**: "DLFormer: Discrete Latent Transformer for Video Inpainting", CVPR, 2022 (*Tencent*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/JingjingRenabc/dlformer)]
+* **T-former**: "T-former: An Efficient Transformer for Image Inpainting", ACMMM, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2305.07239)][[PyTorch](https://github.com/dengyecode/T-former_image_inpainting)]
 * **QueryOTR**: "Outpainting by Queries", ECCV, 2022 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2207.05312)][[PyTorch (in construction)](https://github.com/Kaiseem/QueryOTR)]
 * **FGT**: "Flow-Guided Transformer for Video Inpainting", ECCV, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2208.06768)][[PyTorch](https://github.com/hitachinsk/FGT)]
 * **MAE-FAR**: "Learning Prior Feature and Attention Enhanced Image Inpainting", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.01837)][[PyTorch (in construction)](https://github.com/ewrfcas/MAE-FAR)][[Website](https://ewrfcas.github.io/MAE-FAR/)]
@@ -999,6 +1007,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Transformer-based out-of-distribution detection for clinically safe segmentation", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London*). [[Paper](https://arxiv.org/abs/2205.10650)]
 * **ScaleFormer**: "ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation", IJCAI, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14552)][[Code (in construction)](https://github.com/ZJUGiveLab/ScaleFormer)]
 * **FCBFormer**: "FCN-Transformer Feature Fusion for Polyp Segmentation", Annual Conference on Medical Image Understanding and Analysis (MIUA), 2022 (*University of Central Lancashire, UK*). [[Paper](https://arxiv.org/abs/2208.08352)][[PyTorch](https://github.com/ESandML/FCBFormer)]
+* **UAMT-ViT**: "An uncertainty-aware transformer for MRI cardiac semantic segmentation via mean teachers", Medical Image Understanding and Analysis (MIUA), 2022 (*Oxford*). [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-12053-4_37)][[PyTorch](https://github.com/ziyangwang007/CV-SSL-MIS)]
 * **VDFormer**: "View-Disentangled Transformer for Brain Lesion Detection", ISBI, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2209.09657)][[PyTorch](https://github.com/lhaof/ISBI-VDFormer)]
 * **TFCNs**: "TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation", International Conference on Artificial Neural Networks (ICANN), 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2207.03450)][[PyTorch (in construction)](https://github.com/HUANGLIZI/TFCNs)]
 * **MIL**: "Transformer based multiple instance learning for weakly supervised histopathology image segmentation", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.08878)]
@@ -1006,8 +1015,11 @@ If you find this repository useful, please consider citing this list:
 * **Patcher**: "Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation", MICCAI, 2022 (*Pennsylvania State University*). [[Paper](https://arxiv.org/abs/2206.01741)]
 * **NestedFormer**: "NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation", MICCAI, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2208.14876)][[Code (in construction)](https://github.com/920232796/NestedFormer)]
 * **TransDeepLab**: "TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation", MICCAIW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2208.00713)][[PyTorch](https://github.com/rezazad68/transdeeplab)]
+* **CESSViT**: "Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision", ICIP, 2022 (*Oxford*). [[Paper](https://ieeexplore.ieee.org/abstract/document/9897482)][[PyTorch](https://github.com/ziyangwang007/CV-SSL-MIS)]
+* **S4CVNet**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", ECCVW, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[PyTorch](https://github.com/ziyangwang007/CV-SSL-MIS)]
 * **Video-TransUNet**: "Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation", International Conference on Machine Vision (ICMV), 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2208.08315)]
 * **TransResNet**: "TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting", BMVC, 2022 (*MBZUAI*). [[Paper](https://bmvc2022.mpi-inf.mpg.de/293/)]
+* **CAAViT**: "Adversarial Vision Transformer for Medical Image Semantic Segmentation with Limited Annotations", BMVC, 2022 (*Oxford*). [[Paper](https://bmvc2022.mpi-inf.mpg.de/1002.pdf)][[PyTorch](https://github.com/ziyangwang007/CV-SSL-MIS)][[Supp](https://bmvc2022.mpi-inf.mpg.de/1002_supp.pdf)]
 * **CASTformer**: "Class-Aware Adversarial Transformers for Medical Image Segmentation", NeurIPS, 2022 (*Yale*). [[Paper](https://arxiv.org/abs/2201.10737)]
 * **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", IEEE Access, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
 * **Tempera**: "Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.00355)]
@@ -1024,7 +1036,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Transformer based Generative Adversarial Network for Liver Segmentation", arXiv, 2022 (*Northwestern University*). [[Paper](https://arxiv.org/abs/2205.10663)]
 * **FCT**: "The Fully Convolutional Transformer for Medical Image Segmentation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2206.00566)]
 * **XBound-Former**: "XBound-Former: Toward Cross-scale Boundary Modeling in Transformers", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2206.00806)][[PyTorch](https://github.com/jcwang123/xboundformer)]
-* **Polyp-PVT**: "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers", arxiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2108.06932)][[PyTorch](https://github.com/DengPingFan/Polyp-PVT)]
+* **Polyp-PVT**: "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2108.06932)][[PyTorch](https://github.com/DengPingFan/Polyp-PVT)]
 * **SeATrans**: "SeATrans: Learning Segmentation-Assisted diagnosis model via Transformer", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.05763)]
 * **TransResU-Net**: "TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation", arXiv, 2022 (*Indira Gandhi National Open University*). [[Paper](https://arxiv.org/abs/2206.08985)][[Code (in construction)](https://github.com/nikhilroxtomar/TransResUNet)]
 * **LViT**: "LViT: Language meets Vision Transformer in Medical Image Segmentation", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.14718)][[Code (in construction)](https://github.com/HUANGLIZI/LViT)]
@@ -1032,9 +1044,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images", arXiv, 2022 (*University of Rennes, France*). [[Paper](https://arxiv.org/abs/2207.02059)][[Tensorflow](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)]
 * **CKD-TransBTS**: "CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2207.07370)]
 * **?**: "Contextual Attention Network: Transformer Meets U-Net", arXiv, 2022 (*RWTH Aachen University*). [[Paper](https://arxiv.org/abs/2203.01932)][[PyTorch](https://github.com/rezazad68/TMUnet)]
-* **HRSTNet**: "High-Resolution Swin Transformer for Automatic Medical Image Segmentation", arXiv, 2022 (*Xi'an University of
-Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Code (in construction)](https://github.com/auroua/HRSTNet)]
-* **?**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[Code (in construction)](https://github.com/ziyangwang007/CV-SSL-MIS)]
+* **HRSTNet**: "High-Resolution Swin Transformer for Automatic Medical Image Segmentation", arXiv, 2022 (*Xi'an University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Code (in construction)](https://github.com/auroua/HRSTNet)]
 * **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
 * **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
 * **TFusion**: "TFusion: Transformer based N-to-One Multimodal Fusion Block", arXiv, 2022 (*SouthChinaUniversityofTechnology*). [[Paper](https://arxiv.org/abs/2208.12776)]
@@ -1043,7 +1053,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
 * **CR-Swin2-VT**: "Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.07704)][[PyTorch](https://github.com/himashi92/vizviva_fets_2022)]
 * **FocalUNETR**: "FocalUNETR: A Focal Transformer for Boundary-aware Segmentation of CT Images", arXiv, 2022 (*Wayne State University, Detroit*). [[Paper](https://arxiv.org/abs/2210.03189)]
-* **LAPFormer**: "LAPFormer: A Light and Accurate Polyp Segmentation Transformer", arXiv, 2022 (*Sun\*, Hanoi*). [[Paper](https://arxiv.org/abs/2210.04393)]
+* **LAPFormer**: "LAPFormer: A Light and Accurate Polyp Segmentation Transformer", arXiv, 2022 (*Sun\* Inc, Hanoi*). [[Paper](https://arxiv.org/abs/2210.04393)]
 * **FINE**: "Memory transformers for full context and high-resolution 3D Medical Segmentation", arXiv, 2022 (*National Conservatory of Arts and Crafts, France*). [[Paper](https://arxiv.org/abs/2210.05313)]
 * **ConvTransSeg**: "ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation", arXiv, 2022 (*University of Nottingham, UK*). [[Paper](https://arxiv.org/abs/2210.07072)]
 * **CS-Unet**: "Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2210.08066)]
@@ -1155,6 +1165,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
 * **Q2ATransformer**: "Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2304.01611)]
+* **PMC-VQA**: "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10415)][[Code (in construction)](https://github.com/xiaoman-zhang/PMC-VQA)][[Website](https://xiaoman-zhang.github.io/PMC-VQA/)]
+* **MedBLIP**: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10799)][[Code (in construction)](https://github.com/Qybc/MedBLIP)]
 
 [[Back to Overview](#overview)]
 
@@ -1491,6 +1503,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
     * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
+    * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
